@@ -1,7 +1,7 @@
 # Affinity Publisher 2 – Desktop Publishing & Layout Hub
 
 <div align="center">
-  <img src="https://forum.affinity.serif.com/uploads/monthly_2023_05/279276868_Screenshot2023-05-09at10_20_24AM.png.c394442cc15f849df680b8d367f55af4.png" alt="Affinity Publisher 2 Logo"/>
+  <img src="[https://forum.affinity.serif.com/uploads/monthly_2023_05/279276868_Screenshot2023-05-09at10_20_24AM.png.c394442cc15f849df680b8d367f55af4.png](https://forum.affinity.serif.com/uploads/monthly_2020_03/194479196_ScreenShot2020-03-24at11_45_58am.png.a2720c692a90160202dc838898b59145.png)" alt="Affinity Publisher 2 Logo"/>
 </div>
 
 **Optimize your print publishing pipeline with expert resources for Affinity Publisher 2 master pages and linked document integration.**
